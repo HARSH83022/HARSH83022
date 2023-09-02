@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HARSH83022
 - 👀 I’m interested in ... Ai ml developer
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...companies
+- 🌱 I’m currently learning ...python and web development
+- 💞️ I’m looking to collaborate on ... mnc companies
 - 📫 How to reach me ...soon it will updated
 
 <!---
