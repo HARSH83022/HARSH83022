@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HARSH83022
-- 👀 I’m interested in ... Ai ml & iot developer
-- 🌱 I’m currently learning ...python and web development
-- 💞️ I’m looking to collaborate on ... mnc companies
+- 👀 I’m interested in ... to decode problems
+- 🌱 I’m currently learning ... Ai ml & iot developer
+- 💞️ I’m looking to collaborate on ...updated soon
 - 📫 How to reach me ...harshmishra83022@gmail.com
 
 <!---
